@@ -1,2 +1,2 @@
-# code-anonymizer
+# code_anonymizer
 A small tool to anonymize code and de-anonymize it for AI (Chat GPT etc) usage.
